@@ -20,12 +20,16 @@ Product categories
 
 Purchase history
 
+
+
 Objectives
 Analyze customer purchase behavior.
 
 Predict purchase amounts using regression techniques.
 
 Evaluate different models and compare their performance.
+
+
 
 Libraries Used
 pandas
@@ -36,6 +40,7 @@ seaborn
 
 scikit-learn
 
+
 Algorithms Applied
 Linear Regression
 
@@ -45,6 +50,8 @@ Random Forest Regressor
 
 Extra Trees Regressor
 
+
+
 Future Work
 Hyperparameter tuning
 
@@ -53,6 +60,8 @@ Trying additional regression models
 Feature creation and engineering
 
 Normalization and scaling
+
+
 
 How to Run
 Clone the repository.
